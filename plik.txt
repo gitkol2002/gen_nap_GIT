@@ -1,3 +1,5 @@
 Witaj, �wiecie! Zamiast piszemy cokolwiek:)))
 
 to jest druga wersjaaaa
+
+nowy barnch i noze zmiany lokalnie na kopie pawelgit
